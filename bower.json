@@ -1,0 +1,22 @@
+{
+  "name": "huoltopelaa2015",
+  "homepage": "https://github.com/jazbah/huoltopelaa2015",
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "authors": [
+    "jazbah"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap-sass": "~3.3.5"
+  }
+}

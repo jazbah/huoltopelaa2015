@@ -1,0 +1,34 @@
+{
+  "name": "huoltopelaa2015",
+  "version": "1.0.0",
+  "description": "To help consolidate and remove possible future inconsistencies, the documentation for this sub-theme starter kit has been moved to: http://drupal.org/node/1978010.",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "gulp-concat": "^2.6.0",
+    "gulp-cssmin": "^0.1.7",
+    "gulp-gzip": "^1.2.0",
+    "gulp-imagemin": "^2.3.0",
+    "gulp-jshint": "^1.11.2",
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "^2.0.4",
+    "gulp-svgmin": "^1.2.0",
+    "gulp": "^3.9.0",
+    "gulp-svgstore": "^5.0.5",
+    "gulp-uglify": "^1.4.2",
+    "imagemin-pngcrush": "^4.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jazbah/huoltopelaa2015.git"
+  },
+  "author": "jazbah",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jazbah/huoltopelaa2015/issues"
+  },
+  "homepage": "https://github.com/jazbah/huoltopelaa2015#readme"
+}
